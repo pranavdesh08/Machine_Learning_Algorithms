@@ -3,3 +3,6 @@ In this repo, the ML algorithms are implemented using only built-in Python modul
 
 
 The concept and the math behind these popular ML algorithms is also covered.
+
+PCA: 
+data URL: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
