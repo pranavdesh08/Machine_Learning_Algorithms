@@ -10,5 +10,17 @@ LINEAR REGRESSION:
 2.Linear Regression Stochastic Gradient Descent implementation using Numpy in Python.
 3.house_dataset.csv is an example of the dataset that has been used in the above implementations. 
 
+
+LOGISTIC REGRESSION
+1.LOGISTIC Regression, Gradient Descent implementation using Numpy in Python.
+2.Trial Dataset containing customers information.
+
+
 PCA: 
 data URL: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+
+
+SUPPORT VECTOR MACHINE
+1.Implementation of cost function and gradient descent in Python
+2.social.csv containing salary dataset.
+3. Visualization of the results.
